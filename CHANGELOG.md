@@ -1,3 +1,7 @@
+# 3.3.5.1 - 2016-12-1
+
+* Bump less-rails dependency to allow further changes for increasing version numbers
+
 # 3.3.4.0 - 2015-04-26
 
 * Bump less-rails dependency to allow Sprockets 3
